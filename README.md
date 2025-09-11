@@ -32,7 +32,8 @@ This project implements secure login functionality, role-based access control, a
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/AnujRaghuwanshi/SpringBoot-Authentication-Authorization.git
-cd SpringBoot-Authentication-Authorization
+cd SpringBoot-Authentication-Authorization  
+
 2️⃣ Configure MySQL Database
 Create a database in MySQL, e.g., auth_db.
 
