@@ -65,19 +65,8 @@ Role-based method and URL security.
 
 Custom UserDetailsService handles user authentication.
 
-📂 Project Structure
-src/
-├── main/
-│   ├── java/
-│   │   └── com.example.CRUDApplication
-│   │       ├── Controller
-│   │       ├── Entity
-│   │       ├── Repository
-│   │       ├── Service
-│   │       └── config
-│   └── resources/
-│       └── application.properties
-└── test/
+<pre markdown="1"> ## 📂 Project Structure ``` src/ ├── main/ │ ├── java/ │ │ └── com.example.CRUDApplication/ │ │ ├── Controller/ │ │ ├── Entity/ │ │ ├── Repository/ │ │ ├── Service/ │ │ └── config/ │ └── resources/ │ └── application.properties └── test/ ``` --- ## ✅ Notes - Ensure MySQL is running before starting the application. - Use tools like Postman to test API endpoints. </pre>  
+
 ✅ Notes
 Ensure MySQL is running before starting the application.
 
