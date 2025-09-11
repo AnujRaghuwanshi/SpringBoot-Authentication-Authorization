@@ -88,7 +88,8 @@ Use tools like Postman to test the API endpoints.
 This project is licensed under the MIT License.
 
 📧 Contact
-Anuj Raghuwanshi – anujraghuwanshipip04@gmail.com
+Anuj Raghuwanshi – anujraghuwanshipip04@gmail.com  
+
 [GitHub Profile](https://github.com/AnujRaghuwanshi)
 
 👉 You can copy this into your `README.md` file and customize any part of it (e.g., endpoints, credentials format, etc.).
